@@ -1,0 +1,1 @@
+- Melhor visualização em dispositivos móveis
